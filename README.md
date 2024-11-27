@@ -1,2 +1,2 @@
-# SuperPoint
-This Repository is an example on how to use deep learning for image registration
+# Registration_Benchmarking
+This repo is made to develop SLO-SLO registration methods to apply for SVO detection. 
