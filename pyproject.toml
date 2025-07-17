@@ -1,0 +1,12 @@
+[project]
+name = "mlregistration"
+version = "0.1.0"
+description = "ML-Based Registration"
+
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version" # version location
+branch = "main"                             # branch to make releases of
+changelog_file = "CHANGELOG.md"             # changelog file
+upload_to_pypi = false                      # don't auto-upload to PyPI
+remove_dist = false                         # don't remove dists
